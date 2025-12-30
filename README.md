@@ -38,4 +38,4 @@ A lightweight terminal tool to fetch real-time cryptocurrency data without exter
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ali-emre-ipek/) • [Email](aliemre.ipek@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/ali-emre-ipek/) • [Email](mailto:aliemre.ipek@outlook.com)
