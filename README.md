@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Emre! 👋
 
-I'm a **Backend Software Engineer**. I specialize in building high-performance, scalable applications and designing distributed architectures using **Golang** and **.NET**. My core strengths include solving concurrency problems, implementing microservices, and optimizing data flow.
+I'm a **Backend Software Engineer** with a strong focus on Distributed Systems and High-Performance Architectures. Specialized in **Golang** and **.NET 8**, with practical experience in solving concurrency challenges, preventing race conditions, and designing Event-Driven Microservices. Passionate about software craftsmanship, clean code, and optimizing data flow in cloud environments.
 
 ---
 
